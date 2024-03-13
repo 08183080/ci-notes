@@ -5,4 +5,6 @@ my ci notes
 ### questions
 - [ ] github self-hosted action auyjentification fail, auth fail!
 ![Uploading image.png…]()
+# links
+- [ ] [awesome-ci/cd](https://github.com/myugan/awesome-cicd-security)
 
