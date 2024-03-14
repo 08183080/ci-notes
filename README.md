@@ -1,9 +1,10 @@
 # ci-notes
 my ci notes
 # github action
-## self-hosted(自定义机器)
+## self-hosted runners
 ### questions
 - [ ] [auth fail] github self-hosted action authentification fail, auth fail!
+# docker and k8s
 # links
 - [ ] [awesome-ci/cd](https://github.com/myugan/awesome-cicd-security)
 
